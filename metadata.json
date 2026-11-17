@@ -1,0 +1,6 @@
+{
+  "name": "FLIXFIL",
+  "description": "FLIXFIL — Your Story. Your Screen. Platform streaming film Indonesia dan internasional dengan pustaka koleksi pribadi, pemutar video adaptif HLS, subtitle AI, dan keamanan berlapis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
